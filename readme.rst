@@ -1,5 +1,5 @@
 ================================================================
-Pine Script Beginner's Guide (TradingView) - AlgoTrading101 Blog
+Pine Script Beginner's Guide (TradingView) - InfinityAlgo 101 Blog
 ================================================================
 
 This is the code used in `Pine Script Beginner's Guide (TradingView) <https://algotrading101.com/learn/pine-script-tradingview-guide/>`_ published on the Algotrading101 Blog
